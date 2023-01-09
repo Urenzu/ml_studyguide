@@ -1,3 +1,3 @@
 # MLstudyguide
-A comprehensive study guide for foundational machine learning concepts which was recommended to me by ChatGPT. <br>
+A comprehensive study guide for foundational machine learning concepts which was recommended to me by ChatGPT.
 In addition to the following study guide I'd highly recommend you watch all of the [Stanford CS229: Machine Learning Course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) whilst also progressing through the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?) and the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). This should give you a deeper understanding of the subject.
